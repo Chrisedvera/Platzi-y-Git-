@@ -1,0 +1,4 @@
+Este el primer archivo que trabajare con git XD
+
+Antes de enloquecerme con los ejemplos de py basico
+
