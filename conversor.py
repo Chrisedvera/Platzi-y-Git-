@@ -5,8 +5,8 @@ las opciones son :
 2 - COP
 3 - MXN
 
-Elige una de las opciones: 
-"""
+Elige una de las opciones: """
+
 opcion = int(input(menu))
 
 
@@ -27,3 +27,5 @@ elif opcion == 3:
     print(" Tiene " + str(dolares) + " USD")
 else:
     print("Por favor eleige una de las opciones")
+
+# en la poxima vesio se agregaran funciooes con def
