@@ -10,7 +10,7 @@ def palindromo(palabra):
 def run():
     palabra = input("Escribe una palabra: ")
     es_palindromo = palindromo(palabra)
-    if es_palindromo == True:
+    if es_palindromo: # La forma correcta de escribirlo segun PEP 8
         print("Es un palindromo")
     else:
         print("No es un palindromo")
