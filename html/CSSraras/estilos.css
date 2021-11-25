@@ -1,8 +1,11 @@
 body
 {
     color: #444;
-    text-align: left;
+    text-align: center;
     font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 #container
@@ -16,5 +19,5 @@ body
 
 #container h1
 {
-    
+    font-size: 20px; 
 }
