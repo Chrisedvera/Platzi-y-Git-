@@ -5,3 +5,5 @@ Antes de enloquecerme con los ejemplos de py basico
 Vamos por la 5ta linea, tercer parrafo
 
 Vamos a ver si se me abre vim 
+
+si funciono el VIM en cmder. Ahora quiero ver que pasa si apago el pc con archivos solo stage
